@@ -1,0 +1,34 @@
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.exe.config
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.exe
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.pdb
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Form1.resources
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Properties.Resources.resources
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.exe
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.pdb
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Islemler.resources
+C:\Users\Asus\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Form3.resources
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.exe.config
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.exe
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.pdb
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.exe
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.pdb
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csprojResolveAssemblyReference.cache
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Form1.resources
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Islemler.resources
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Form3.resources
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Properties.Resources.resources
+C:\Users\Dilara\Desktop\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csproj.GenerateResource.Cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.exe.config
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.exe
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\bin\Debug\YazilimSınamaProje.pdb
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csprojAssemblyReference.cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Form1.resources
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Islemler.resources
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Form3.resources
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.Properties.Resources.resources
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csproj.GenerateResource.cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.csproj.CoreCompileInputs.cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.exe
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\YAZILIM SINAMA PROJE\YazilimSınamaProje\YazilimSınamaProje\obj\Debug\YazilimSınamaProje.pdb
